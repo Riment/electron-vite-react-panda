@@ -1,0 +1,10 @@
+.DS_Store
+styled-system
+.env
+.env.*
+!.env.example
+node_modules
+dist
+out
+build
+.gitignore
